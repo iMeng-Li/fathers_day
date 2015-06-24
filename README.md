@@ -13,7 +13,7 @@
 
  父亲节H5上线第一天是访问顶峰，一定过去了就下滑，甚至过来一个星期几乎没有人访问。
 
-[![](http://chuantu.biz/t2/10/1435116085x-1133352443.png)](http://mynameidblue.com)
+[![](http://chuantu.biz/t2/10/1435116085x-1133352443.png)](http://mynameisblue.com)
 
 
 
@@ -28,13 +28,16 @@
 会往回滑动的。
 故产生了下面的数据和之前分析页面的深层就越小。结果却是~~~
 
-[![](http://chuantu.biz/t2/10/1435116144x-1133352413.png)](http://mynameidblue.com)
+[![](http://chuantu.biz/t2/10/1435116144x-1133352413.png)](http://mynameisblue.com)
 
 
+###部分页展示
 
 
-
-
+[![](http://chuantu.biz/t2/10/1435116407x-1133352413.png)](http://mynameisblue.com)
+[![](http://chuantu.biz/t2/10/1435116425x-1133352413.png)](http://mynameisblue.com)
+[![](http://chuantu.biz/t2/10/1435116445x-1133352413.png)](http://mynameisblue.com)
+[![](http://chuantu.biz/t2/10/1435116459x-1133352413.png)](http://mynameisblue.com)
 
 
 
